@@ -119,16 +119,16 @@
             // 
             // txtTarifa
             // 
-            this.txtTarifa.Location = new System.Drawing.Point(310, 25);
+            this.txtTarifa.Location = new System.Drawing.Point(274, 25);
             this.txtTarifa.Name = "txtTarifa";
-            this.txtTarifa.Size = new System.Drawing.Size(219, 20);
+            this.txtTarifa.Size = new System.Drawing.Size(398, 20);
             this.txtTarifa.TabIndex = 13;
             // 
             // txtDeducible
             // 
-            this.txtDeducible.Location = new System.Drawing.Point(310, 67);
+            this.txtDeducible.Location = new System.Drawing.Point(274, 65);
             this.txtDeducible.Name = "txtDeducible";
-            this.txtDeducible.Size = new System.Drawing.Size(219, 20);
+            this.txtDeducible.Size = new System.Drawing.Size(398, 20);
             this.txtDeducible.TabIndex = 14;
             // 
             // grdTarifa

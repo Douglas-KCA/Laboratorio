@@ -40,10 +40,10 @@
             // 
             this.lblUsuario.AutoSize = true;
             this.lblUsuario.BackColor = System.Drawing.Color.Transparent;
-            this.lblUsuario.Font = new System.Drawing.Font("Calibri", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblUsuario.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblUsuario.Location = new System.Drawing.Point(130, 75);
             this.lblUsuario.Name = "lblUsuario";
-            this.lblUsuario.Size = new System.Drawing.Size(75, 23);
+            this.lblUsuario.Size = new System.Drawing.Size(63, 19);
             this.lblUsuario.TabIndex = 0;
             this.lblUsuario.Text = "Usuario:";
             // 
@@ -51,10 +51,10 @@
             // 
             this.lblPass.AutoSize = true;
             this.lblPass.BackColor = System.Drawing.Color.Transparent;
-            this.lblPass.Font = new System.Drawing.Font("Calibri", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPass.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblPass.Location = new System.Drawing.Point(130, 116);
             this.lblPass.Name = "lblPass";
-            this.lblPass.Size = new System.Drawing.Size(103, 23);
+            this.lblPass.Size = new System.Drawing.Size(87, 19);
             this.lblPass.TabIndex = 1;
             this.lblPass.Text = "Contraseña:";
             // 
@@ -74,7 +74,7 @@
             // 
             // btnEntrar
             // 
-            this.btnEntrar.Font = new System.Drawing.Font("Calibri", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEntrar.Font = new System.Drawing.Font("Calibri", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEntrar.Image = ((System.Drawing.Image)(resources.GetObject("btnEntrar.Image")));
             this.btnEntrar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnEntrar.Location = new System.Drawing.Point(239, 158);
